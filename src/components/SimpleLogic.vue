@@ -21,13 +21,13 @@
             }
         },
         methods: {
-            renderNode() {
+            renderNode: function (rootGroupNode) {
 
             },
-            renderGroupNode() {
+            renderGroupNode: function (groupNode) {
 
             },
-            renderRuleNode: function () {
+            renderRuleNode: function (ruleNode) {
                 return `<div> hello world render rule node</div>`;
             }
         }
