@@ -25,10 +25,10 @@
 
             },
             renderGroupNode: function (groupNode) {
-
+                return `<div>group node </div>`;
             },
             renderRuleNode: function (ruleNode) {
-                return `<div> hello world render rule node</div>`;
+                return `<div> rule node</div>`;
             }
         }
     }
