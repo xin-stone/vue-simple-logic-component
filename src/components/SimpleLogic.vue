@@ -1,5 +1,7 @@
 <template>
-    
+    <div>
+        hello simple logic
+    </div>
 </template>
 
 <script>
